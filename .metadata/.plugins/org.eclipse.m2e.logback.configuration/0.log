@@ -1,0 +1,227 @@
+2021-11-24 17:14:02,928 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-24 17:14:49,001 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/pom.xml.
+2021-11-24 17:14:49,884 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:49,888 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:14:49,892 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:49,892 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:14:53,338 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/pom.xml.
+2021-11-24 17:14:53,397 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:14:53,522 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:53,522 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:14:53,524 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:53,524 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/src/test/resources
+2021-11-24 17:14:53,885 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/pom.xml.
+2021-11-24 17:14:53,979 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/pom.xml.
+2021-11-24 17:14:54,013 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/pom.xml.
+2021-11-24 17:14:54,028 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:14:54,059 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/pom.xml.
+2021-11-24 17:14:55,508 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:55,510 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:14:55,511 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:55,512 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:14:56,838 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:14:56,844 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:56,845 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:14:56,846 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:14:56,846 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/src/test/resources
+2021-11-24 17:15:39,760 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:39,761 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:15:39,761 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:39,761 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:15:39,777 [Worker-14: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent
+2021-11-24 17:15:39,777 [Worker-14: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-11-24 17:15:50,124 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:50,124 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:15:50,125 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:50,126 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:15:51,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:51,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:15:51,983 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:51,983 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:15:52,586 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:52,587 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:15:52,589 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:15:52,589 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/src/test/resources
+2021-11-24 17:16:12,916 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:12,917 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:12,919 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:12,919 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:16:12,924 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:12,925 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:12,927 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:12,927 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.ide/src/test/resources
+2021-11-24 17:16:12,993 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:16:13,164 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:13,164 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:13,166 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:13,166 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/src/test/resources
+2021-11-24 17:16:13,870 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:16:13,914 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:16:14,034 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:14,034 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:14,035 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:14,035 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/src/test/resources
+2021-11-24 17:16:14,134 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:16:14,191 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.parent:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/pom.xml.
+2021-11-24 17:16:14,213 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:16:14,224 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:16:14,245 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:16:15,463 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:15,464 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:15,465 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:15,465 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/src/test/resources
+2021-11-24 17:16:16,037 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:16:16,044 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:16,045 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:16:16,046 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:16:16,047 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/src/test/resources
+2021-11-24 17:17:13,131 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:17:13,166 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:13,168 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.parent:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/pom.xml.
+2021-11-24 17:17:13,169 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:13,181 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:17:13,189 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:13,190 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:13,204 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:17:13,209 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:13,223 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:17:13,226 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:13,227 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:13,263 [Worker-21: Building] ERROR o.e.m2e.jdt.internal.ModuleSupport - org.xtext.example.mydsl.parent does not exist
+org.eclipse.jdt.core.JavaModelException: org.xtext.example.mydsl.parent does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3889)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:199)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:190)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.configureClasspath(ModuleSupport.java:119)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configureClasspath(AbstractJavaProjectConfigurator.java:800)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:67)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:268)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:413)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:393)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:421)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:206)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:195)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:317)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-11-24 17:17:13,296 [Worker-21: Building] ERROR o.e.m2e.jdt.internal.ModuleSupport - org.xtext.example.mydsl.parent does not exist
+org.eclipse.jdt.core.JavaModelException: org.xtext.example.mydsl.parent does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3889)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:199)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:190)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.configureClasspath(ModuleSupport.java:119)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configureClasspath(AbstractJavaProjectConfigurator.java:800)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:67)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:268)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:413)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:393)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:421)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:206)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:195)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:317)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-11-24 17:17:14,411 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:14,437 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:14,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:14,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:14,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:14,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/src/test/resources
+2021-11-24 17:17:14,821 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:14,836 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:14,837 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl.parent: org.xtext.example.mydsl:org.xtext.example.mydsl.parent:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl.parent/target/classes
+2021-11-24 17:17:14,840 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:14,840 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:14,841 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:14,841 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/src/test/resources
+2021-11-24 17:17:32,439 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:32,439 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:32,440 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:32,440 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/test/resources
+2021-11-24 17:17:32,718 [Worker-24: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent
+2021-11-24 17:17:32,718 [Worker-24: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2021-11-24 17:17:46,806 [Worker-32: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:47,042 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:17:47,075 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:47,077 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.parent:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/pom.xml.
+2021-11-24 17:17:47,078 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:47,096 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:17:47,104 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:47,106 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:47,120 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/pom.xml.
+2021-11-24 17:17:47,126 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:47,139 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl1:org.xtext.example.mydsl1.ide:1.0.0-SNAPSHOT @ /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/pom.xml.
+2021-11-24 17:17:47,141 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:47,142 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:48,331 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:48,344 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:48,348 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:48,348 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:48,349 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:48,349 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/src/test/resources
+2021-11-24 17:17:48,713 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:48,721 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl1: org.xtext.example.mydsl1:org.xtext.example.mydsl1:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl1/target/classes
+2021-11-24 17:17:48,722 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:48,724 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:48,725 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:48,725 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:48,725 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/src/test/resources
+2021-11-24 17:17:48,756 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/org.xtext.example.mydsl: org.xtext.example.mydsl:org.xtext.example.mydsl:1.0.0-SNAPSHOT with classifier  to /org.xtext.example.mydsl/target/classes
+2021-11-24 17:17:52,420 [Worker-9: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent
+2021-11-24 17:17:52,420 [Worker-9: Launching Generate MyDsl (mydsl) Language Infrastructure] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2021-11-24 17:17:59,464 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:59,464 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:59,465 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:59,465 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1/src/test/resources
+2021-11-24 17:17:59,524 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:59,524 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-24 17:17:59,524 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-24 17:17:59,524 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rlefeuvr/eclipse-workspaces/lastchance/org.xtext.example.mydsl1.parent/org.xtext.example.mydsl1.ide/src/test/resources
